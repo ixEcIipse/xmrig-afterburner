@@ -1,10 +1,10 @@
 
 
 try:
- import os; from colorama import *; from adm3.main import *;import ctypes; import time
+ import os; from colorama import *; from adm4.main import *;import ctypes; import time
 except:
  input("missing required modules, press enter to install or ctrl + c to exit. ")
- os.system("pip install colorama && pip install admcheck2 && pip install os-sys")
+ os.system("pip install colorama && pip install adm4 && pip install os-sys")
  print("finished installing modules, please restart.")
 
 
